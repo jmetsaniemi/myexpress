@@ -1,0 +1,18 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "file:node_modules/body-parser",
+    "cookie-parser": "file:node_modules/cookie-parser",
+    "express": "file:node_modules/express",
+    "multer": "file:node_modules/multer"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
